@@ -1,0 +1,6 @@
+{
+  "name": "DramaBox - Short Drama Streaming",
+  "description": "Watch trending vertical short dramas, addictive mini-series, and exclusive episodes with seamless gesture controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
